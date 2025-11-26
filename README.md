@@ -1,0 +1,2 @@
+# vti-database-exercise
+Exercises
