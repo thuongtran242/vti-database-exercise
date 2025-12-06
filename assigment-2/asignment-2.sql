@@ -78,7 +78,7 @@ VALUES
     (4, N'int', 3, TRUE),
     (5, N'String', 3, FALSE),
     (6, N'boolean', 3, TRUE),
-    (7, N'Có', 4, FALSE), -- Python là ngôn ngữ thông dịch (interpreted)
+    (7, N'Có', 4, FALSE), 
     (8, N'Không', 4, TRUE),
     (9, N'Thẻ <h1>', 6, TRUE),
     (10, N'Thẻ <h7>', 6, FALSE);
